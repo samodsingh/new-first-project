@@ -1,0 +1,23 @@
+
+.container{
+    background-image: url(./image/pexels-photo-2377965.jpeg);
+    background-repeat: no-repeat;
+    
+    color: white;
+}
+#form{
+     background-color: rgb(90, 88, 88);
+     min-height: 800px;
+     padding: 5px 40px 40px 40px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ label{
+     font-size: 18px;
+     color: whitesmoke;
+ }
+ .submit{
+     width: 100%;
+ }
+ h5,p{
+  text-align: center;
+}
