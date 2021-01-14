@@ -1,6 +1,8 @@
-
-.container{
-    background-image: url(./image/pexels-photo-2377965.jpeg);
+body{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-image: url(./image/pexels-photo-2377965.jpeg) ;
     background-repeat: no-repeat;
     
     color: white;
